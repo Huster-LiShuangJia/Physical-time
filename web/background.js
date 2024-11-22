@@ -1,11 +1,10 @@
 document.addEventListener("DOMContentLoaded", () => {
     const images = [
-    '../image/IMG_20240508_212554.jpg',
-    '../image/IMG_20230526_205150.jpg',
-    '../image/IMG_20230508_191344.jpg',
-    '../image/IMG_20241114_192143.jpg'
-];
-
+        '../image/IMG_20240508_212554.jpg',
+        '../image/IMG_20230526_205150.jpg',
+        '../image/IMG_20230508_191344.jpg',
+        '../image/IMG_20241114_192143.jpg'
+    ];
 
     let index = 0;
 
