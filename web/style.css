@@ -13,7 +13,10 @@ body {
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7); /* 文字阴影增强可读性 */
     position: relative;
     background-attachment: fixed;
+<<<<<<< HEAD
     transition: background-image 1s ease-in-out; /* 让背景切换变得平滑 */
+=======
+>>>>>>> 818f429c3cabea5e826c88c66b8a6d80c6e4083e
 }
 
 /* 页头样式 */
